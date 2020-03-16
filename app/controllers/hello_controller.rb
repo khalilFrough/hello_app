@@ -4,4 +4,9 @@ class HelloController < ApplicationController
     @extra = "I am the hello controller!"
     @count = 2
   end
+   
+  def home
+    
+  end 
+
 end
